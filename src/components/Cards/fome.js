@@ -8,11 +8,11 @@ export default function Fome() {
         <S.Container>
             <S.ImgODS src={Fomebg} alt="ods 2 fome zero"/>
             <div>
-                <p>1.1:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.2:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.3:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.4:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.5:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                <S.P>1.1: Garantir cestas básicas aos moradores de comunidade, dando foco em favelas e lugares marginalizados.</S.P>
+                <S.P>1.2: Apoiar lugares que entregam quentinhas em Santa Cruz, com alimentos ou qalquer valor, podendo ser feito por moradores com condições melhores.</S.P>
+                <S.P>1.3: Evitar o desperdício de comida, reaproveitando o máximo possível sempre, fazendo pratos e dando aos necessitados, ou até mesmo, dar aos animais domésticos ou de rua.</S.P>
+                <S.P>1.4: Incentivar o cultivo de hortaliças e frutas para consumo próprio.</S.P>
+                <S.P>1.5: Evitar remoção de grandes árvores frutíferas como: mangueira, bananeira, goiabeira etc.</S.P>
             </div>
 
         </S.Container>

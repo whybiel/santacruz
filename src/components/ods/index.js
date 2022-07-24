@@ -57,8 +57,8 @@ export default function ODS(){
         <S.Container>
             <S.SubContainer>
             <S.Img onClick={()=>{TransformFome()}} src={Fome0} alt="imagem ods contra fome"/>
-            <S.Img onClick={()=>{TransformEducacao()}} src={Educacao} alt="imagem ods por mais educação"/>
             <S.Img onClick={()=>{TransformSaude()}} src={Saude} alt="imagem ods por mais saude"/>
+            <S.Img onClick={()=>{TransformEducacao()}} src={Educacao} alt="imagem ods por mais educação"/>
             <S.Img onClick={()=>{TransformVida()}} src={Vida} alt="imagem ods por mais vida na água"/>
             </S.SubContainer>
             {fome && <Fome/>}

@@ -8,13 +8,11 @@ export default function Fome() {
         <S.Container>
             <S.ImgODS src={Vida} alt="ods 14 vida na agua"/>
             <div>
-                <p>1.1:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.2:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.3:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.4:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.5:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                <S.P>1.1: Evitar jogar gorduras e lixos pela descarga ou bueiros abertos na comunidade.</S.P>
+                <S.P>1.2: Não jogar lixo em valões, rios, lagos para que a poluição não devaste o ecossistema local.</S.P>
+                <S.P>1.3: Não jogar produtos químicos, materiais com componentes elétricos como: pilhas, baterias, celulares</S.P>
+                <S.P>1.4: Evitar descarte de plástico, móveis, etc próximos de locais com água.</S.P>
             </div>
-
         </S.Container>
     )
 }

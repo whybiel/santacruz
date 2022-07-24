@@ -8,11 +8,10 @@ export default function Fome() {
         <S.Container>
             <S.ImgODS src={Saude} alt="ods 3 saude e bem estar"/>
             <div>
-                <p>1.1:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.2:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.3:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.4:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                <p>1.5:Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                <S.P>1.1: Participar das ações comunitárias ao combate de doenças e vetores de enfermidade.</S.P>
+                <S.P>1.2: Evitar descarte de lixos em locais errados, evitando proliferação de pragas e consequentemente doenças.</S.P>
+                <S.P>1.3: Aderir as campanhas de vacinação e manter a vacinação em dia.</S.P>
+                <S.P>1.4: Manter consultas periódicas nos postos do SUS.</S.P>
             </div>
 
         </S.Container>

@@ -13,7 +13,7 @@ export const SubContainer = styled.div`
 `
 
 export const Img = styled.img`
-    width: 15%;
+    width: 13%;
 
     border-radius: 20px;
     border: 2px solid #fff;
