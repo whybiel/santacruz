@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/santacruz/static/js/main.662678ea.js",
+    "static/js/787.f24d569d.chunk.js": "/santacruz/static/js/787.f24d569d.chunk.js",
+    "static/media/vidabg.png": "/santacruz/static/media/vidabg.a3166839db7653329506.png",
+    "static/media/fomebg.png": "/santacruz/static/media/fomebg.10b4d2f4520f1b877825.png",
+    "static/media/saudebg.png": "/santacruz/static/media/saudebg.710f4f9db7860aa00079.png",
+    "static/media/educabg.png": "/santacruz/static/media/educabg.cfe84ef8d2baaa96c8ed.png",
+    "index.html": "/santacruz/index.html",
+    "main.662678ea.js.map": "/santacruz/static/js/main.662678ea.js.map",
+    "787.f24d569d.chunk.js.map": "/santacruz/static/js/787.f24d569d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.662678ea.js"
+  ]
+}
